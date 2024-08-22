@@ -23,4 +23,4 @@ Game Logic:
 ### check_win(player): Checks for a win condition for the specified player.
 ### on_button_click(row, col): Handles user moves and updates the board.
 ### computer_move(): Handles the computer’s move.
-###M essage Boxes: Display game status and results using messagebox.showinfo.
+### Message Boxes: Display game status and results using messagebox.showinfo.
