@@ -19,8 +19,8 @@ tkinter (included with standard Python installations)
 
 Main Window: Created using tkinter, it includes a 3x3 grid of buttons.
 Game Logic:
-### reset_board(): Resets the game board.
-### check_win(player): Checks for a win condition for the specified player.
-### on_button_click(row, col): Handles user moves and updates the board.
-### computer_move(): Handles the computer’s move.
-### Message Boxes: Display game status and results using messagebox.showinfo.
+reset_board(): Resets the game board.
+check_win(player): Checks for a win condition for the specified player.
+on_button_click(row, col): Handles user moves and updates the board.
+computer_move(): Handles the computer’s move.
+Message Boxes: Display game status and results using messagebox.showinfo.
